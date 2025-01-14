@@ -3,6 +3,8 @@ The goal of this project is to take a spreadsheet of Skilled Nursing Facilities 
 
 [Github Link](https://github.com/leab38/Address-Distance)
 
+[Back to Portfolio](https://leab38.github.io/)
+
 ## File Structure
 The source file (Skilled Nursing Facility List) is in the "data" folder. For ease of interaction/updating the filenames, the project is written as a Jupyter notebook.
 
